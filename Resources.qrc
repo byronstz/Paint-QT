@@ -1,5 +1,16 @@
 <RCC>
     <qresource prefix="/">
         <file>MiPaint_en.qm</file>
+        <file>recursos/acceso.png</file>
+        <file>recursos/ancho-del-texto.png</file>
+        <file>recursos/cerrar-sesion (1).png</file>
+        <file>recursos/circulo-de-color.png</file>
+        <file>recursos/color-de-relleno.png</file>
+        <file>recursos/contorno-de-forma-rectangular.png</file>
+        <file>recursos/contorno-del-circulo.png</file>
+        <file>recursos/guardar-el-archivo.png</file>
+        <file>recursos/lapiz.png</file>
+        <file>recursos/linea.png</file>
+        <file>recursos/nueva-pagina.png</file>
     </qresource>
 </RCC>
