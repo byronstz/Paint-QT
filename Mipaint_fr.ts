@@ -1,36 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="en_US">
+<TS version="2.1" language="fr_FR">
 <context>
     <name>Principal</name>
     <message>
-        <source>Principal</source>
-        <translation type="vanished">Principal</translation>
-    </message>
-    <message>
         <location filename="principal.ui" line="17"/>
         <source>Mi Pint Byron Socasi</source>
-        <translation>my pint byron socasi</translation>
+        <translation>ma pinte byron socasi</translation>
     </message>
     <message>
         <location filename="principal.ui" line="35"/>
         <source>Archivo</source>
-        <translation>Archive</translation>
+        <translation>archiver</translation>
     </message>
     <message>
         <location filename="principal.ui" line="44"/>
         <source>Estilo</source>
-        <translation>Style</translation>
+        <translation>style</translation>
     </message>
     <message>
         <location filename="principal.ui" line="52"/>
         <source>Forma</source>
-        <translation>Shape</translation>
+        <translation>forme</translation>
     </message>
     <message>
         <location filename="principal.ui" line="71"/>
         <source>Nuevo</source>
-        <translation>New</translation>
+        <translation>Nouveau</translation>
     </message>
     <message>
         <location filename="principal.ui" line="74"/>
@@ -40,7 +36,7 @@
     <message>
         <location filename="principal.ui" line="83"/>
         <source>Guardar</source>
-        <translation>Save</translation>
+        <translation>sauvegarder</translation>
     </message>
     <message>
         <location filename="principal.ui" line="86"/>
@@ -50,7 +46,7 @@
     <message>
         <location filename="principal.ui" line="95"/>
         <source>Salir</source>
-        <translation>Exit</translation>
+        <translation>sortir</translation>
     </message>
     <message>
         <location filename="principal.ui" line="98"/>
@@ -60,7 +56,7 @@
     <message>
         <location filename="principal.ui" line="107"/>
         <source>Color</source>
-        <translation>Color</translation>
+        <translation>Couleur</translation>
     </message>
     <message>
         <location filename="principal.ui" line="110"/>
@@ -70,7 +66,7 @@
     <message>
         <location filename="principal.ui" line="119"/>
         <source>Ancho</source>
-        <translation>Width</translation>
+        <translation>large</translation>
     </message>
     <message>
         <location filename="principal.ui" line="122"/>
@@ -80,7 +76,7 @@
     <message>
         <location filename="principal.ui" line="131"/>
         <source>Lineas</source>
-        <translation>Lines</translation>
+        <translation>lignes</translation>
     </message>
     <message>
         <location filename="principal.ui" line="134"/>
@@ -90,7 +86,7 @@
     <message>
         <location filename="principal.ui" line="146"/>
         <source>Libre</source>
-        <translation>Free Style</translation>
+        <translation>libre</translation>
     </message>
     <message>
         <location filename="principal.ui" line="149"/>
@@ -100,7 +96,7 @@
     <message>
         <location filename="principal.ui" line="158"/>
         <source>Rectánculos</source>
-        <translation>Rectangle</translation>
+        <translation>rectangles</translation>
     </message>
     <message>
         <location filename="principal.ui" line="161"/>
@@ -110,7 +106,7 @@
     <message>
         <location filename="principal.ui" line="170"/>
         <source>Circunferencias</source>
-        <translation>Circumference</translation>
+        <translation>circonférences</translation>
     </message>
     <message>
         <location filename="principal.ui" line="173"/>
@@ -120,7 +116,7 @@
     <message>
         <location filename="principal.ui" line="182"/>
         <source>Relleno</source>
-        <translation>Define Padding</translation>
+        <translation>remplissage</translation>
     </message>
     <message>
         <location filename="principal.ui" line="185"/>

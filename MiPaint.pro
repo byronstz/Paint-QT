@@ -25,8 +25,9 @@ HEADERS += \
 FORMS += \
     principal.ui
 
-TRANSLATIONS =\
-    MiPaint_en.ts
+TRANSLATIONS =MiPaint_en.ts\
+              Mipaint_fr.ts\
+
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
@@ -35,3 +36,6 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 
 RESOURCES += \
     Resources.qrc
+
+DISTFILES += \
+    Mipaint_fr.ts

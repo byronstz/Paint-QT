@@ -12,5 +12,7 @@
         <file>recursos/lapiz.png</file>
         <file>recursos/linea.png</file>
         <file>recursos/nueva-pagina.png</file>
+        <file>recursos/paint.png</file>
+        <file>Mipaint_fr.qm</file>
     </qresource>
 </RCC>
